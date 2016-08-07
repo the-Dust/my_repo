@@ -24,23 +24,35 @@ public class Star
         public void show ()
         {
             Console.SetCursorPosition(x, y);
-            Console.Write("-=*=-");
-        }
+            Console.Write("-");
+            System.Threading.Thread.Sleep(100);
+            Console.SetCursorPosition(x, y);
+            Console.Write(@"\");
+            System.Threading.Thread.Sleep(100);
+            Console.SetCursorPosition(x, y);
+            Console.Write("|");
+            System.Threading.Thread.Sleep(100);
+            Console.SetCursorPosition(x, y);
+            Console.Write("/");
+           // System.Threading.Thread.Sleep(10);
+
+            
+         }
 }
 
 class Program
 {
     static void Main()
     {
-        Star star = new Star(10, 10, 1, 1);
-        Star star2 = new Star(10, 10, 2, 1);
+        Star star = new Star(1, 1, 1, 1);
+        Star star2 = new Star(1, 1, 2, 1);
         do
         {
             star.move();
             star.show();
             star2.move();
             star2.show();
-            System.Threading.Thread.Sleep(100);
+         //   System.Threading.Thread.Sleep(100);
             Console.Clear();
 
         }
