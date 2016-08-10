@@ -1,0 +1,8 @@
+D:\PROJECTS\my_repo\GraphicsExample\GraphicsExample\bin\Debug\GraphicsExample.exe
+D:\PROJECTS\my_repo\GraphicsExample\GraphicsExample\bin\Debug\GraphicsExample.pdb
+D:\PROJECTS\my_repo\GraphicsExample\GraphicsExample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\my_repo\GraphicsExample\GraphicsExample\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\PROJECTS\my_repo\GraphicsExample\GraphicsExample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\PROJECTS\my_repo\GraphicsExample\GraphicsExample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PROJECTS\my_repo\GraphicsExample\GraphicsExample\obj\x86\Debug\GraphicsExample.exe
+D:\PROJECTS\my_repo\GraphicsExample\GraphicsExample\obj\x86\Debug\GraphicsExample.pdb
